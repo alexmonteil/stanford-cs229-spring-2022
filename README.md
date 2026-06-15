@@ -1,4 +1,4 @@
-# Stanford CS229: Machine Learning (Spring 2022)
+# Stanford CS229: Machine Learning (Spring 2022) By Tengyu Ma
 
 This repository contains the study materials and resources for the **Spring 2022 Edition** of Stanford University's flagship machine learning course, **CS229**. 
 
