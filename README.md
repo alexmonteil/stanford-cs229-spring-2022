@@ -24,10 +24,12 @@ Follow these steps to self-study the course material effectively:
 ## 📁 Repository Structure
 
 ```text
-├── additional notes/     # Supplementary reading materials for specific lectures
-├── problem sets/         # Homework assignments and problem sets
-├── review materials/     # Discussion section notes and review resources
-├── ta lectures/          # Additional lecture materials covered by TAs
-├── course_schedule.pdf   # The master schedule mapping lectures to notes
-├── main_notes.pdf        # Core lecture notes spanning the entire syllabus
-└── README.md             # Repository overview
+├── additional notes/                              # Supplementary reading materials for specific lectures
+├── problem sets/                                  # Homework assignments and problem sets
+├── review materials/                              # Discussion section notes and review resources
+├── ta lectures/                                   # Additional lecture materials covered by TAs
+├── course_schedule.pdf                            # The master schedule mapping lectures to notes
+├── main_notes.pdf                                 # Core lecture notes spanning the entire syllabus
+├── CS229 Syllabus Spring 2022 - Syllabus.pdf      # PDF syllabus in tabular format for quick reference
+├── CS229 Syllabus Spring 2022 - Syllabus.html     # HTML syllabus in tabular format for quick reference
+└── README.md                                      # Repository overview
